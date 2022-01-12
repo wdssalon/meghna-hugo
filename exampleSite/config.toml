@@ -1,4 +1,4 @@
-baseURL = "https://premtest123.netlify.com"
+baseURL = "https://premtest123.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
